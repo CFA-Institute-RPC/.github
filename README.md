@@ -1,2 +1,2 @@
 # .github
-Default Community Health/Policy Files for the CFA Institute organization on GitHub
+Default Community Health Files for the CFA Institute RPC Labs organization on GitHub
