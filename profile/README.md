@@ -1,4 +1,4 @@
-![Open Source at CFA Institute](https://github.com/CFA-Institute-RPC/.github/blob/main/images/Labs-Intro.png) 
+![Open Source at CFA Institute](https://github.com/CFA-Institute-RPC/.github/blob/main/images/rpc-labs.png) 
 # Welcome to RPC Labs
 RPC Labs is a dynamic knowledge-sharing ecosystem at the intersection of finance, data science, and technology. Our platform enables finance professionals and data scientists to collaborate, innovate, and stay updated on the latest advancements in investment data science.
 
