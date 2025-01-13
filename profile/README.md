@@ -1,58 +1,67 @@
 ![RPC Labs Logo](https://github.com/CFA-Institute-RPC/.github/blob/main/images/rpc-labs-bold-picto.png)
 # Welcome to RPC Labs
 
-**RPC Labs** is a knowledge-sharing community designed to empower finance professionals, data scientists, and technologists at the intersection of **finance**, **data science**, and **AI/ML**. Created by CFA Institute, RPC Labs simplifies access to cutting-edge resources, curated projects, and a collaborative space for shaping the future of financial data science.
+**RPC Labs** is where finance meets technology. Powered by the [CFA Institute Research & Policy Center (RPC)](https://rpc.cfainstitute.org/), it’s a collaborative community for finance professionals, data scientists, and developers to create open-source tools, share knowledge, and drive innovation at the intersection of finance, data science, and AI/ML.
+
+Our mission is to foster open collaboration among CFA members, candidates, and tech enthusiasts. With tools and projects tailored to the financial industry, RPC Labs is building an inclusive space where everyone can contribute, learn, and grow.
 
 ---
 
-## What Is RPC Labs?
-RPC Labs is a collaborative space for professionals who:
-- Want to **explore tools and educational content** that apply AI/ML to real-world financial challenges.
-- Are curious about **financial data science** but may not have experience with platforms like GitHub or Discord.
-- Value learning and experimenting with technologies that enhance financial workflows.
-
-Whether you're a CFA charterholder, candidate, or finance professional, RPC Labs makes it easy to:
-1. Access curated repositories, datasets, and tutorials.
-2. Learn at your own pace through examples and educational materials.
-3. Join a growing community that welcomes all experience levels.
+## 🌟 Why RPC Labs?
+- **Learn and Explore**: Access curated resources and tools designed for investment professionals and tech enthusiasts.
+- **Collaborate and Build**: Join a global community shaping the future of financial data science through open-source innovation.
+- **Contribute and Engage**: Share your expertise, provide feedback, and help refine projects that impact the investment industry.
 
 ---
 
-## How You Can Participate
-We’ve designed RPC Labs to be approachable, even if this is your first time exploring open-source tools or online communities. Here's how you can get started:
+## 🚀 Quick Start: Get Involved Today
 
-### 1. Explore What’s Available
-- Visit our repositories to find ready-to-use resources like financial models, code snippets, and datasets. These are curated to provide value even if you're not a developer.
-- Use the repositories as a reference to solve real-world challenges or enhance your learning.
+1. **Explore Our Repositories**:
+   - Browse [featured repositories](#📂-featured-repositories) and discover open-source tools for climate risk analysis, AI adoption, and more.
+   - Star your favorites to show support and stay updated.
 
-### 2. Consume Materials at Your Own Pace
-- If you’re new to GitHub or coding, no problem! Our **README files** and **step-by-step examples** are written to guide you through every project. Start small by exploring how the tools work.
-- Check out our [Contributing Guidelines](https://github.com/CFA-Institute-RPC/.github/blob/main/CONTRIBUTING.md) to better understand the projects or adapt them for your own work.
+2. **Join the Community on Discord**:
+   - Connect with peers, discuss ideas, and collaborate on active projects.  
+   👉 [Join Discord](https://discord.com/invite/prJ3xFWqMW)
 
-### 3. Engage with the Community
-- Join the conversation on our [Discord server](https://discord.gg/zaHvJGSC). This is where professionals like you discuss projects, ask questions, and share insights.
-- Share your feedback and suggest new resources you’d like to see. Your ideas will help shape RPC Labs as we grow.
-
-### 4. Contribute When You’re Ready
-- If you’re comfortable, contribute directly to the repositories by suggesting improvements, adding documentation, or even proposing new project ideas.
-- Contributions don’t have to involve coding—sharing insights or suggesting ways to use the tools is equally valuable.
+3. **Make Your First Contribution**:
+   - Check out our [Contributing Guidelines](https://github.com/CFA-Institute-RPC/.github/blob/main/CONTRIBUTING.md) to learn how to get started.  
+   - No coding? No problem! Share insights, suggest improvements, or help with documentation.
 
 ---
 
-## Why Join?
-RPC Labs is for CFA Institute affiliates and other professionals curious about how technology is shaping finance. Joining RPC Labs means:
-- **Accessing resources tailored to finance**: Discover tools, tutorials, and datasets curated specifically for financial professionals.
-- **Learning in a supportive environment**: Engage with resources and a community designed to welcome both beginners and experienced professionals.
-- **Adding your voice**: Help guide the direction of RPC Labs by sharing your feedback and ideas.
+## 📂 Featured Repositories
+
+- **[Network Climate Transition Risk Tool](https://github.com/CFA-Institute-RPC/cgfi-finshock)**  
+  This repository contains the code for analyzing systemic climate transition risks in interconnected financial systems. It supports scenario-based analysis to help policymakers and financial professionals assess risk propagation.
+
+- **[AI and Big Data Technology Usage Heatmap](https://github.com/CFA-Institute-RPC/AI-Big-Data)**  
+  Explore how investment professionals are adopting AI and big data technologies in workflows like risk oversight and advisory. This repository includes code and resources to create an interactive heatmap visualization.
+
+- **[The Automation Ahead](https://github.com/CFA-Institute-RPC/The-Automation-Ahead)**  
+  Hands-on GenAI applications for investment workflows, featuring Python scripts from our research series.
+
+Explore all repositories in [our GitHub organization](https://github.com/CFA-Institute-RPC).
 
 ---
 
-## We’re Building This Together
-RPC Labs is a work in progress, and we’re excited to grow it with your help. Whether you’re here to explore, learn, or contribute, your participation makes a difference. Together, we can create a community that bridges finance and technology, setting the stage for innovation in investment data science.
-
-Ready to get started? [Explore our repositories](https://github.com/CFA-Institute-RPC) or [join us on Discord](https://discord.gg/zaHvJGSC).
+## 💬 Join the Conversation
+We’re more than a repository—RPC Labs is a community:
+- **Discord**: [Join discussions](https://discord.com/invite/prJ3xFWqMW) and connect with peers.  
+- **Feedback**: Use our [GitHub Discussions tab](https://github.com/CFA-Institute-RPC/discussions) or join Discord to share ideas and ask questions.  
+- **React and Engage**: Star repositories, open issues, or contribute pull requests to make an impact.
 
 ---
 
-## Our Commitment
-RPC Labs operates under the **CFA Institute Open Source Code of Conduct** to ensure a safe, respectful, and collaborative environment for everyone. For more details, review our [Code of Conduct FAQ](https://github.com/CFA-Institute-RPC/.github/blob/main/CODE_OF_CONDUCT.md).
+## 🛠️ Contribute to RPC Labs
+Your contributions make a difference. Whether you’re adding code, sharing insights, or helping with documentation, we welcome your expertise.
+
+**How to Contribute**:
+1. **Read the Guidelines**: Start with our [Contributing Guide](https://github.com/CFA-Institute-RPC/.github/blob/main/CONTRIBUTING.md).  
+2. **Fork and Star**: Fork a repository, make your changes, and submit a pull request.  
+3. **Engage**: React, comment, or start a discussion in our repositories.
+
+---
+
+## 📜 License
+All projects in RPC Labs are licensed under the MIT License unless stated otherwise. See individual repositories for details.
