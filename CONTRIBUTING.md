@@ -1,45 +1,105 @@
-# CONTRIBUTING
-First of all, thank you for taking the time to contribute (or at least read the Contributing Guidelines)! 🚀
+# Contributing to RPC Labs
 
-RPC Labs provides anyone with relevant and trusted financial tools for free. To achieve this, the CFA Institute relies on community involvement to update, edit, and remove contributions over time. This is made easy enough so that anyone, even those with little coding experience, can participate.
+First of all, thank you for taking the time to contribute to RPC Labs! 🚀 Your efforts help us provide trusted and relevant financial tools for the open-source community. We welcome contributions from everyone, regardless of your level of coding experience.
 
-The following is a set of guidelines for contributing to the RPC Labs. They are meant to guide you through how updating the repositories works and how you can contribute with little coding background as well.
+This guide outlines the ways you can contribute and the steps to follow when making a contribution.
 
-# Ways to Help Out
+---
 
-There are a variety of ways you can help out, these can be:
+## 🌟 Ways to Contribute
 
-| Topic  | Description |
-| ------------- | ------------- |
-| New Features | CLorem Ipsum |
-| Bug Reports|  Lorem Ipsum |
-| Updating documentation| Lorem Ipsum |
-| Lorem Ipsum | Lorem Ipsum |
+You can contribute in several ways:
 
-These are just a few examples but feel free to proceed how you'd like! **Any help is much appreciated!**
+| Contribution Type     | Description                                                                                     |
+|-----------------------|-------------------------------------------------------------------------------------------------|
+| **New Features**      | Propose and add new functionality to enhance existing tools or create new ones.                |
+| **Bug Reports**       | Identify and report bugs or issues in the tools or documentation.                              |
+| **Documentation Updates** | Improve clarity, fix errors, or expand documentation to better serve the community.           |
+| **Feedback and Ideas**| Share suggestions for improvements, new tools, or features you'd like to see in future releases.|
 
-# Advanced (Developers)
-If you know your way around Git and GitHub this is the preferred way of providing updates. In any case, I still provide information regarding how to set up Git.
+If you're unsure about what to contribute, feel free to browse the [Issues tab](https://github.com/CFA-Institute-RPC/discussions) for ideas or discussions.
 
-## Working with Git & Pull Requests
+---
 
-Any new contribution preferably goes via a Pull Request. In essence, all you really need is Git and a basic understanding of how a Pull Request works. Find some resources that explain this well here:
+## 🛠️ Contribution Workflow
 
-- [Finding ways to contribute to open source on GitHub](https://docs.github.com/en/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)
-- [Set up Git](https://docs.github.com/en/get-started/quickstart/set-up-git)
-- [Collaborating with pull requests](https://docs.github.com/en/github/collaborating-with-pull-requests)
+### Non-Technical Contributions
 
+If you’re not familiar with Git or coding, you can still contribute by:
+- Reporting bugs or issues via the [Issues tab](https://github.com/CFA-Institute-RPC/issues).
+- Starting a discussion in the [Discussions tab](https://github.com/CFA-Institute-RPC/discussions) to share feedback or propose ideas.
 
-## Following the Workflow
+### Technical Contributions
 
-After setting up Git, you can fork and pull the project in.
+For those with Git experience, follow these steps to contribute:
 
-1. Fork the Project ([more info](https://docs.github.com/en/get-started/quickstart/fork-a-repo))
-    - **Using GitHub Desktop:** [Getting started with GitHub Desktop](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/getting-started-with-github-desktop) will guide you through setting up Desktop. Once Desktop is set up, you can use it to [fork the repo](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop)!
-    - **Using the command line:** [Fork the repo](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo#fork-an-example-repository) so that you can make your changes without affecting the original project until you're ready to merge them.
-2. Pull the Repository Locally ([more info](https://github.com/git-guides/git-pull))
-2. Create your own branch (`git checkout -b feature/contribution`)
-3. Add your changes (`git add .`)
-4. Commit your Changes (`git commit -m 'Improve the Project'`)
-5. Push to your Branch (`git push origin feature/contribution`)
-6. Open a Pull Request
+1. **Fork the Repository**:
+   - On GitHub: [Fork a repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
+   - Using GitHub Desktop: [Set up and fork](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/cloning-and-forking-repositories-from-github-desktop).
+
+2. **Clone the Fork Locally**:
+   ```bash
+   git clone https://github.com/YOUR_USERNAME/REPO_NAME.git
+   cd REPO_NAME
+   ```
+
+3. **Create a New Branch**:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Make Your Changes**:
+   - Follow any code style or documentation guidelines.
+   - Test your changes locally if applicable.
+
+5. **Commit Your Changes**:
+   ```bash
+   git add .
+   git commit -m "Descriptive message about your changes"
+   ```
+
+6. **Push to Your Fork**:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+7. **Submit a Pull Request (PR)**:
+   - Go to your forked repository on GitHub.
+   - Click on "New Pull Request" and follow the prompts.
+   - Add a clear description of your changes and their purpose.
+
+---
+
+## 📝 Guidelines
+
+- **Code Quality**:
+  - Follow consistent coding styles (e.g., PEP 8 for Python).
+  - Include comments and documentation for better understanding.
+
+- **Testing**:
+  - Test your changes thoroughly.
+  - Provide test cases or examples if applicable.
+
+- **Documentation**:
+  - Use clear and concise language.
+  - Maintain formatting consistency.
+
+---
+
+## 💬 Community Standards
+
+Our community follows the [Code of Conduct](https://github.com/CFA-Institute-RPC/.github/blob/main/CODE_OF_CONDUCT.md). Please ensure your interactions are respectful and constructive.
+
+---
+
+## 🙌 Acknowledgments
+
+We value every contribution! Contributors will be credited in:
+- Release notes for significant updates.
+- The project’s acknowledgments section.
+
+---
+
+For any questions, feel free to start a discussion or email us at [info@cfainstitute.org](mailto:info@cfainstitute.org).
+
+**Thank you for helping us improve RPC Labs!**
