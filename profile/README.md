@@ -3,7 +3,7 @@
 
 **RPC Labs** is where finance meets technology. Powered by the [CFA Institute Research & Policy Center (RPC)](https://rpc.cfainstitute.org/), it’s a collaborative community for finance professionals, data scientists, and developers to create open-source tools, share knowledge, and drive innovation at the intersection of finance, data science, and AI/ML.
 
-Our mission is to foster open collaboration among CFA members, candidates, and tech enthusiasts. With tools and projects tailored to the financial industry, RPC Labs is building an inclusive space where everyone can contribute, learn, and grow.
+Our mission is to foster open collaboration among CFA Institute  members, candidates, and tech enthusiasts. With tools and projects tailored to the financial industry, RPC Labs is building an inclusive space where everyone can contribute, learn, and grow.
 
 ---
 
@@ -25,7 +25,7 @@ Our mission is to foster open collaboration among CFA members, candidates, and t
    👉 [Join Discord](https://discord.com/invite/prJ3xFWqMW)
 
 3. **Make Your First Contribution**:
-   - Check out our [Contributing Guidelines](https://github.com/CFA-Institute-RPC/.github/blob/main/CONTRIBUTING.md) to learn how to get started.  
+   - Check out our [Contribution Guidelines](https://github.com/CFA-Institute-RPC/.github/blob/main/CONTRIBUTING.md) to learn how to get started.  
    - No coding? No problem! Share insights, suggest improvements, or help with documentation.
 
 ---
@@ -57,7 +57,7 @@ We’re more than a repository—RPC Labs is a community:
 Your contributions make a difference. Whether you’re adding code, sharing insights, or helping with documentation, we welcome your expertise.
 
 **How to Contribute**:
-1. **Read the Guidelines**: Start with our [Contributing Guide](https://github.com/CFA-Institute-RPC/.github/blob/main/CONTRIBUTING.md).  
+1. **Read the Guidelines**: Start with our [Contribution Guide](https://github.com/CFA-Institute-RPC/.github/blob/main/CONTRIBUTING.md).  
 2. **Fork and Star**: Fork a repository, make your changes, and submit a pull request.  
 3. **Engage**: React, comment, or start a discussion in our repositories.
 
