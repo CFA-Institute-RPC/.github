@@ -1,7 +1,7 @@
 ![RPC Labs Logo](https://github.com/CFA-Institute-RPC/.github/blob/main/images/rpc-labs-bold-picto.png)
 # Welcome to RPC Labs
 
-**RPC Labs** is where finance meets technology. Powered by the [CFA Institute Research & Policy Center (RPC)](https://rpc.cfainstitute.org/), it’s a collaborative community for finance professionals, data scientists, and developers to create open-source tools, share knowledge, and drive innovation at the intersection of finance, data science, and AI/ML.
+**RPC Labs** is where finance meets technology. Powered by [CFA Institute Research & Policy Center (RPC)](https://rpc.cfainstitute.org/), it’s a collaborative community for finance professionals, data scientists, and developers to create open-source tools, share knowledge, and drive innovation at the intersection of finance, data science, and AI/ML.
 
 Our mission is fostering open collaboration among CFA Institute  members, candidates, and tech enthusiasts. With tools and projects tailored to the financial industry, RPC Labs is building an inclusive space for contribution, learning, and growth.
 
