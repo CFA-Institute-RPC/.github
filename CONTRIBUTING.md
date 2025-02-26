@@ -70,6 +70,12 @@ For those with Git experience, follow these steps to contribute:
 
 ---
 
+## ⭐ Show Your Support
+
+Help us grow the RPC Labs community! If you find our repositories valuable, please **star** them on GitHub to show your support and stay updated on new developments.
+
+---
+
 ## 📝 Guidelines
 
 - **Code Quality**:
@@ -97,6 +103,25 @@ Our community follows the [Code of Conduct](https://github.com/CFA-Institute-RPC
 We value every contribution! Contributors will be credited in:
 - Release notes for significant updates.
 - The project’s acknowledgments section.
+
+---
+
+## 📜 Legal Compliance
+
+By contributing to RPC Labs repositories, you affirm that:
+
+- Your contributions **do not violate** any applicable laws, regulations, or third-party rights.
+- You have the **legal right** to license your contributions under the repository's open-source license.
+
+## 📜 Legal Notices
+
+- **License**: Unless written otherwise, all contributions are licensed under the MIT License.
+- **Disclaimer**: All code is provided **"as-is"** without warranties. Users are responsible for security risks and compliance with applicable laws. See [DISCLAIMER.md](https://github.com/CFA-Institute-RPC/.github/blob/main/DISCLAIMER.md) for full details.
+
+---
+
+Thank you for helping us improve RPC Labs! 🚀
+
 
 ---
 
