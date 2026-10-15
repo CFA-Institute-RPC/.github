@@ -34,7 +34,7 @@ Our mission is fostering open collaboration among CFA Institute  members, candid
 - **[Network Climate Transition Risk Tool](https://github.com/CFA-Institute-RPC/cgfi-finshock)**  
   This repository contains the code for analyzing systemic climate transition risks in interconnected financial systems. It supports scenario-based analysis to help policymakers and financial professionals assess risk propagation.
 
-- **[AI and Big Data Technology Usage Heatmap](https://github.com/CFA-Institute-RPC/AI-Big-Data)**  
+- **[AI and Big Data Technology Usage Heatmap](https://github.com/CFA-Institute-RPC/AI-finance-workflow-heatmap)**  
   Explore how investment professionals are adopting AI and big data technologies in workflows like risk oversight and advisory. This repository includes code and resources to create an interactive heatmap visualization.
 
 - **[The Automation Ahead](https://github.com/CFA-Institute-RPC/The-Automation-Ahead)**  
@@ -52,7 +52,7 @@ Your contributions make a difference. Whether coding, sharing insights, or impro
 
 ## 📜 Legal Notices
 - **License**: All projects in RPC Labs are licensed under the [MIT License](https://github.com/CFA-Institute-RPC/.github/blob/main/LICENSE) unless stated otherwise.
-- **Disclaimer**: All code is provided **"as-is"** without warranties. Users are responsible for security risks and compliance with applicable laws. See [DISCLAIMER.md](https://github.com/CFA-Institute-RPC/.github/blob/main/DISCLAIMER.md) for full details.
+- **Disclaimer**: All code is provided **"as-is"** without warranties. Users are responsible for security risks and compliance with applicable laws. See [Disclaimer.md](https://github.com/CFA-Institute-RPC/.github/blob/main/Disclaimer.md) for full details.
 
 ## 💬 Join the Conversation
 - **Discord**: [Join discussions](https://discord.com/invite/prJ3xFWqMW) and collaborate with peers.
