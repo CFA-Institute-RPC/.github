@@ -17,7 +17,7 @@ You can contribute in several ways:
 | **Documentation Updates** | Improve clarity, fix errors, or expand documentation to better serve the community.           |
 | **Feedback and Ideas**| Share suggestions for improvements, new tools, or features you'd like to see in future releases.|
 
-If you're unsure about what to contribute, feel free to browse the [Issues tab](https://github.com/CFA-Institute-RPC/discussions) for ideas or discussions.
+If you're unsure about what to contribute, feel free to browse the [Discussions tab](https://github.com/orgs/CFA-Institute-RPC/discussions) for ideas or discussions.
 
 ---
 
@@ -26,8 +26,8 @@ If you're unsure about what to contribute, feel free to browse the [Issues tab](
 ### Non-Technical Contributions
 
 If you’re not familiar with Git or coding, you can still contribute by:
-- Reporting bugs or issues via the [Issues tab](https://github.com/CFA-Institute-RPC/issues).
-- Starting a discussion in the [Discussions tab](https://github.com/CFA-Institute-RPC/discussions) to share feedback or propose ideas.
+- Reporting bugs or issues via the Issues tab of the relevant repository.
+- Starting a discussion in the [Discussions tab](https://github.com/orgs/CFA-Institute-RPC/discussions) to share feedback or propose ideas.
 
 ### Technical Contributions
 
@@ -116,7 +116,7 @@ By contributing to RPC Labs repositories, you affirm that:
 ## 📜 Legal Notices
 
 - **License**: Unless written otherwise, all contributions are licensed under the MIT License.
-- **Disclaimer**: All code is provided **"as-is"** without warranties. Users are responsible for security risks and compliance with applicable laws. See [DISCLAIMER.md](https://github.com/CFA-Institute-RPC/.github/blob/main/DISCLAIMER.md) for full details.
+- **Disclaimer**: All code is provided **"as-is"** without warranties. Users are responsible for security risks and compliance with applicable laws. See [Disclaimer.md](https://github.com/CFA-Institute-RPC/.github/blob/main/Disclaimer.md) for full details.
 
 ---
 
